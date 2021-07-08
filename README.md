@@ -18,7 +18,7 @@ You need to have the following software installed:
 * Oracle SQL* Plus
 
 ## Installation
-Follow this [guide](https://www.oracletutorial.com/getting-started/create-oracle-sample-database-for-practice/) to set up the database for practice
+Follow this [guide](https://www.oracletutorial.com/getting-started/create-oracle-sample-database-for-practice/) to set up the sample database for practice
 
 ## Usage
 Open the files and run the statements in Oracle SQL Developer
@@ -32,4 +32,4 @@ Open the files and run the statements in Oracle SQL Developer
 
 
 ## Acknowledgements
-* [Oracle Tutorial.com](www.oracletutorial.com)
+[Oracle Tutorial.com](www.oracletutorial.com)
