@@ -32,4 +32,4 @@ Open the files and run the statements in Oracle SQL Developer
 
 
 ## Acknowledgements
-[Oracle Tutorial.com](www.oracletutorial.com)
+[Oracle Tutorial.com](https://www.oracletutorial.com)
