@@ -14,7 +14,7 @@ INSERT INTO parts (part_name,lead_time,cost,status) VALUES ('tristique neque',3,
 INSERT INTO parts (part_name,lead_time,cost,status) VALUES ('dolor quam,',16,82,1);
 INSERT INTO parts (part_name,lead_time,cost,status) VALUES ('nec, diam.',41,10,1);
 
--- Data manipulation using Update stmt
+-- Data manipulation using Update statement
 
 UPDATE parts SET cost = 130 WHERE part_id = 1;
 
