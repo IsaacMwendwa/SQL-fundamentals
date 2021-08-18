@@ -1,4 +1,4 @@
-# oracle-sql-basics
+# SQL Fundamentals
 
 ## Table of Contents
 * [Introduction](#Introduction)
@@ -9,7 +9,7 @@
 * [Acknowledgements](#Acknowledgements)
 
 ## Introduction
-This repo contains the Oracle SQL files for creating an Oracle database and its corresponding tables, and data loading and data manipulation using Oracle SQL.
+This repo contains the Oracle SQL files for creating an Oracle database and its corresponding tables, and data loading and data manipulation using the Structured Query Language (SQL); and in particular Oracle SQL.
 
 ## Pre-requisites
 You need to have the following software installed:
